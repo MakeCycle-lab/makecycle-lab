@@ -30,9 +30,5 @@ Welcome to my hardware laboratory. This repository hosts the original developmen
 ### How to get files:
 Detailed production files (Gerber, STEP, BOM) are hosted as ZIP assets in the [Releases] section. Please refer to the download links in each sub-directory's description.
 
-### 📺 Video Tutorials
-For detailed build guides and demonstrations, visit:
-👉 **[YouTube Channel Link]**
-
 ---
 *Reviving legacy hardware, one bit at a time.*

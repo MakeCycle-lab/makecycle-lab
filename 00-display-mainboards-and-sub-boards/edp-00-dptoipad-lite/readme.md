@@ -6,10 +6,10 @@ The **dptoipad-lite** is a universal mainboard designed to convert DisplayPort (
 
 To drive a display, the **dptoipad-lite** must be used in conjunction with an FPC ribbon cable and a model-specific display adapter. 
 
-### Setup Example (iPad 3 / A1416)
-1. **dptoipad-lite** Mainboard
-2. **FPC Ribbon Cable** (40-pin)
-3. **Adapter Path**: `06-ipad-adapters` -> `00-a1416-ipad3-adapters` -> `a1416-ipad3-display-adapter`
+### 🛠️ Setup Example (iPad 3 / A1416)
+1.  **Mainboard**: Use the **dptoipad-lite** mainboard.
+2.  **Cable**: Requires a standard **40-pin FPC Ribbon Cable**.
+3.  **Display Adapter**: Use the **iPad 3 Display Adapter** found within the **iPad 3 device folder** in the iPad series adapter collection.
 
 ---
 
@@ -44,3 +44,19 @@ iPad-series connectors are often symmetrical and can be physically plugged in ba
 ## Additional Notes
 1. **Compatibility**: The dptoipad mainboard + adapter system can also drive other eDP screens without built-in backlights (e.g., Surface Pro 4 screens).
 2. **Coupling Capacitors**: iPad-series screens have built-in coupling capacitors for the DP link, so they are **not** included on the dptoipad mainboard. If you use this board for other eDP screens, ensure you place the coupling capacitors on your specific adapter board.
+
+---
+
+## 📥 Project Downloads
+
+Click the link below to download the complete production files for **dptoipad-lite-v1.0**:
+
+[Download dptoipad-lite-v1.0.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
+
+---
+
+## 📺 Video Guide
+
+Click the link below to watch the application of the **dptoipad-lite** mainboard in the iPad 3 monitor conversion project:
+
+[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID)

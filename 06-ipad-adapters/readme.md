@@ -56,7 +56,7 @@ Additionally, 3D-printable enclosures and accessory specifications are included 
 
 Click the link below to download the resource files for the iPad monitor conversion:
 
-[Download a1416-ipad3-adapters.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
+[Download a1416-ipad3-adapters-v1.0.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
 
 ---
 

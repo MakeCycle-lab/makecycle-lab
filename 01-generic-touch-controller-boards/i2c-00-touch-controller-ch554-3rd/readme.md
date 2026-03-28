@@ -13,11 +13,26 @@ I have archived the original files in this repository to ensure availability. Pl
 
 ---
 
-## Usage Example: iPad 3 USB Touchscreen Setup
+### 🛠️ Usage Example: iPad 3 USB Touchscreen Setup
+
 To implement a USB touchscreen for an iPad 3, the following combination is required:
 
-1. **i2c-00-touch-controller-ch554-3rd** (USB Touch Controller)
-2. **Adapter Path**: `06-ipad-adapters` -> `00-a1416-ipad3-adapters` -> `a1416-ipad3-touch-adapter` (Touchscreen Adapter)
+1.  **USB Touch Controller**: Use the **i2c-00-touch-controller-ch554-3rd** mainboard.
+2.  **Touchscreen Adapter**: Locate the **iPad Series Adapters** directory, then find the **iPad 3 Adapter** collection. Use the touch adapter found within that project.
 
 ---
+
+## 📥 Project Downloads
+
+Click the link below to download the firmware and production files for the CH554 controller:
+
+[Download touch-controller-ch554-3rd.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
+
+---
+
+## 📺 Video Guide
+
+Click the link below to watch the application of the CH554 controller in the iPad 3 monitor conversion project:
+
+[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID)
 
