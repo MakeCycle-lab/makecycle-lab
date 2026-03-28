@@ -54,7 +54,7 @@ To implement a universal CH554 touch controller, you must flash the official WCH
 
 Click the link below to download the firmware and production files for the CH554 controller:
 
-[Download touch-controller-ch554-3rd-v1.0.rar (RAR)](https://github.com/MakeCycle-lab/makecycle-lab/releases/download/downloads/touch-controller-ch554-v1.0.rar)
+[Download touch-controller-ch554-3rd-v1.0.rar (RAR)](https://github.com/MakeCycle-lab/makecycle-lab/releases/download/universal-mainboards/touch-controller-ch554-v1.0.rar)
 
 ---
 
