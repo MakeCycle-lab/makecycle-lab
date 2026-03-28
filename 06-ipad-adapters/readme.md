@@ -1,67 +1,47 @@
-# a1416-ipad3-adapters: iPad 3/4 Display & Touch Solutions
+# iPad Series Adapters: Screen & Touch Conversion Collection
 
-This directory contains the hardware to adapt iPad 3/4 screens for DIY monitor projects. 
+This directory provides everything you need (adapters, enclosures, and accessories) to turn your old iPad screen into a standalone monitor.
 
-**Compatible Models:**
-* iPad 3 (A1416, and cellular versions)
-* iPad 4 (A1458, and cellular versions)
+## 📱 Will it work for my iPad?
 
----
+Most iPads come in two versions: **Wi-Fi** and **Cellular**. They almost always use the exact same **Screen** and **Touch** hardware.
 
-## 📺 Part 1: Display Adapter
-**a1416-ipad3-display-adapter**
-
-![Display Adapter Overview](./00-a1416-ipad3-adapters/a1416-ipad3-display-adapter-01.jpg)
-
-This adapter converts the iPad 3/4 screen interface to a 40-pin FPC connector. It features integrated power control and a backlight boost circuit.
-
-### ⚠️ Installation Warning: Connector Orientation
-The screen must be installed in the direction shown below. **Reversing the connector orientation may result in permanent damage to the display.**
-
-![Installation Orientation](./00-a1416-ipad3-adapters/a1416-ipad3-display-adapter-02.jpg)
-
-### Required Mainboards
-Must be paired with a compatible mainboard, such as:
-1. **edp-00-dptoipad-lite** (Find details in the `/00-display-mainboards-and-sub-boards` directory).
+* **Example**: If you have an **iPad 3 (A1403 or A1430)**, it uses the same hardware as the Wi-Fi model (**A1416**). You can simply use the files in the **a1416-ipad3** folder.
+* **How to find your files**: Look up your model number (AXXXX) in the tables below to find the correct folder.
 
 ---
 
-## 👆 Part 2: Touch Adapter (I2C)
-**a1416-ipad3-touch-adapter**
+## ✅ Verified Models
+These folders contain ready-to-use files for both the screen and touch functionality:
 
-![Touch Adapter Overview](./00-a1416-ipad3-adapters/a1416-ipad3-touch-adapter-01.jpg)
-
-This adapter converts the iPad 3/4 touchscreen matrix into a standard 6-pin I2C output, based on the **Goodix GT9110** chip.
-
-### 🛠️ Configuration Guide (First-Time Setup)
-The **GT9110** chip must be initialized before its first use:
-1. **Locate Firmware**: Find `GT911_Update.hex` in the `gt911-update-config` folder.
-2. **Flash the Controller**: Burn this file onto the **i2c-00-touch-controller-ch554-3rd** board.
-3. **Execute Update**: Power on, wait for the **LED to stay solid (on)**, then **immediately disconnect** the controller. Do not power it on again while connected to the adapter.
-4. **Finalize**: The adapter is now ready for I2C use. For USB touch, refer to the CH554 folder for USB firmware.
-
-### Connection Guide
-![Touchscreen Connection](./00-a1416-ipad3-adapters/a1416-ipad3-touch-adapter-02.jpg)
-
-![Touch System Setup](./00-a1416-ipad3-adapters/a1416-ipad3-touch-adapter-03.jpg)
+| Model | Screen Status | Touch Status | Notes |
+| :--- | :--- | :--- | :--- |
+| **a1416 (iPad 3)** | Works | Works | |
+| **a1474 (iPad Air 1)** | Works | Works | |
+| **a1566 (iPad Air 2)** | Works | Works | **Exclusive Solution** |
+| **a2197 (iPad 7)** | Works | Works | Use A1474 for screen |
+| **a1673 (Pro 9.7)** | Works | In Development | |
+| **a1489 (mini 2)** | Works | In Development | |
+| **a1538 (mini 4)** | Works | In Development | |
+| **a2133 (mini 5)** | Works | In Development | |
 
 ---
 
-## 📦 Technical Assets
-Additionally, 3D-printable enclosures and accessory specifications are included in this project. Due to space constraints, they are not detailed here; please refer to the relevant folders within the **ZIP** package for more information.
+## 🔄 Compatibility Table
+If your specific model isn't listed above, find its match here:
+
+| Your Model | Use Screen Folder | Use Touch Folder |
+| :--- | :--- | :--- |
+| **a1458 (iPad 4)** | a1416-ipad3 | a1416-ipad3 |
+| **a1822 (iPad 5)** | a1474-ipad-air1 | a1474-ipad-air1 |
+| **a1893 (iPad 6)** | a1474-ipad-air1 | In Development |
+| **a2270 (iPad 8)** | a1474-ipad-air1 | a2197-ipad7 |
+| **a2602 (iPad 9)** | a1474-ipad-air1 | a2197-ipad7 |
+| **a1599 (mini 3)** | a1489-mini2 | a1489-mini2 |
 
 ---
 
-## 📥 Project Downloads
-
-Click the link below to download the resource files for the iPad monitor conversion:
-
-[Download a1416-ipad3-adapters-v1.0.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
-
----
-
-## 📺 Video Guide
-
-Click the link below to watch the detailed step-by-step video of the iPad monitor conversion process:
-
-[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID)
+## 🛠️ How to Use
+1. **Find your Model**: Check the **AXXXX** number on the back of your iPad.
+2. **Find the Match**: Use the tables above to see which folder you need.
+3. **Go to Folder**: Open that folder to download the files and watch the setup video.
