@@ -15,7 +15,7 @@ Most iPads come in two versions: **Wi-Fi** and **Cellular**. They almost always 
 These folders contain ready-to-use files for both the screen and touch functionality:
 
 | Model | Lcd Adapter | Touch Adapter | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | 
 | **a1416 (iPad 3)** | Works | Works | 
 | **a1474 (iPad Air 1)** | Works | Works | 
 | **a1566 (iPad Air 2)** | Works | Works | 
