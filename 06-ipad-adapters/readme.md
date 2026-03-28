@@ -50,9 +50,18 @@ The **GT9110** chip must be initialized before its first use:
 ## 📦 Technical Assets
 Additionally, 3D-printable enclosures and accessory specifications are included in this project. Due to space constraints, they are not detailed here; please refer to the relevant folders within the **ZIP** package for more information.
 
-## 📥 Download Production Files
-Click the link below to download the complete production package (Gerber, BOM, and 3D files):
+---
 
-[Download a1416-ipad3-adapters.zip (ZIP)](你的Release下载直链)
+## 📥 Project Downloads
 
-*Note: This ZIP contains assets for both the display and touch adapter boards.*
+Click the link below to download the resource files for the iPad monitor conversion:
+
+[Download a1416-ipad3-adapters.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
+
+---
+
+## 📺 Video Guide
+
+Click the link below to watch the detailed step-by-step video of the iPad monitor conversion process:
+
+[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID)
