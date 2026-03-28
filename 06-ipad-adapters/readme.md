@@ -1,6 +1,14 @@
-# iPad Series Adapters: Screen & Touch Conversion Collection
+# iPad Series Adapters: Device-Specific Resources
 
-This directory provides everything you need (adapters, enclosures, and accessories) to turn your old iPad screen into a standalone monitor.
+This directory contains specialized adapters, enclosures, and accessory files for various iPad models. 
+
+### 🧩 Modular Hardware Design
+
+This project uses a decoupled architecture between the **Mainboard**, **Touch Controller**, and **Device Adapters**. To complete your project, follow this specific workflow:
+
+1.  **Check the Device Documentation**: Find your iPad model in the folders below and open its `README.md`. It will specify which **Mainboard** and **Touch Controller** are required for that specific device.
+2.  **Locate the Mainboard**: Navigate to the **[00-display-mainboards-and-sub-boards]** directory in the repository root to find the designated driver board.
+3.  **Locate the Touch Controller**: Navigate to the **[01-generic-touch-controller-boards]** directory in the repository root to find the required I2C-to-USB bridge.
 
 ## 📱 Will it work for my iPad?
 
