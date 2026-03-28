@@ -33,7 +33,7 @@ License: MIT (Excluding 3rd-party assets).
 ---
 
 ### How to get files:
-Detailed production files (Gerber, STEP, BOM) are hosted as ZIP assets in the [Releases] section. Please refer to the download links in each sub-directory's description.
+Detailed production files (Gerber, STEP, BOM) are hosted as RAR assets in the [Releases] section. Please refer to the download links in each sub-directory's description.
 
 ---
 *Reviving legacy hardware, one bit at a time.*
