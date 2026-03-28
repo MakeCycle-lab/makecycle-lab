@@ -1,11 +1,16 @@
 # 🛠️ MakeCycle-Lab | Hardware Project Assets
 
-Welcome to my hardware laboratory. This repository hosts the original development files and assets shared on my **YouTube channel: [Your Channel Name]**.
+🚀 Project Overview
+Welcome to my hardware laboratory. This repository hosts the original development files and assets shared on my YouTube Channel.
 
-### 📢 Important Notice
-* **Static Repository**: This is a non-interactive repository for resource hosting. Due to time constraints on hardware reverse engineering and PCB design, **Issues and Pull Requests (PRs) will not be processed.**
-* **Feedback & Support**: If you have technical questions or suggestions, please leave a comment on the corresponding YouTube video. I check them regularly.
-* **Disclaimer**: All files are provided "as-is" for educational and hobbyist purposes. Please ensure you have sufficient engineering knowledge before attempting any modifications.
+📢 Notice
+Archive Only: This is a non-interactive repository. Issues and PRs will not be processed.
+
+Support: Please leave comments on YouTube for technical questions.
+
+License: MIT (Excluding 3rd-party assets).
+
+⭐ Support this project by giving it a Star!
 
 ---
 
