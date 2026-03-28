@@ -34,8 +34,8 @@ To implement a universal CH554 touch controller, you must flash the official WCH
 
 #### 1. Preparation
 * **Software**: Download and install the **WCHISPStudio** flashing tool and its required drivers.
-* **Main Firmware**: Locate `HID_TP_GT_V100.hex` inside the **touch-controller-ch554-3rd.zip** (available in the Downloads section below).
-* **EEPROM Data**: Locate the specific `.bin` or `.hex` EEPROM file within the **target device's ZIP package** (Note: Some devices may not require a separate EEPROM file).
+* **Main Firmware**: Locate `HID_TP_GT_V100.hex` inside the **touch-controller-ch554-3rd.rar** (available in the Downloads section below).
+* **EEPROM Data**: Locate the specific `.bin` or `.hex` EEPROM file within the **target device's RAR package** (Note: Some devices may not require a separate EEPROM file).
 
 #### 2. Flashing Procedure
 1.  **Enter Download Mode**: Press and hold the **Flash Button** on the CH554 board while connecting it to your PC via USB. The software should detect the device.
@@ -54,7 +54,7 @@ To implement a universal CH554 touch controller, you must flash the official WCH
 
 Click the link below to download the firmware and production files for the CH554 controller:
 
-[Download touch-controller-ch554-3rd-v1.0.zip (ZIP)](YOUR_RELEASE_DOWNLOAD_LINK_HERE)
+[Download touch-controller-ch554-3rd-v1.0.rar (RAR)](https://github.com/MakeCycle-lab/makecycle-lab/releases/download/downloads/touch-controller-ch554-v1.0.rar)
 
 ---
 
