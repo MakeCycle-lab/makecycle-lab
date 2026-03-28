@@ -4,9 +4,11 @@ This directory contains the hardware to adapt iPad 3/4 screens for DIY monitor p
 
 ## 🖼️ Build Showcase
 
-| Build Preview 1 | Build Preview 2 | Build Preview 3 |
-| :---: | :---: | :---: |
-| [![Build 1](./Build1.jpg)](./Build1.jpg) | [![Build 2](./Build2.jpg)](./Build2.jpg) | [![Build 3](./Build3.jpg)](./Build3.jpg) |
+![Build 1](/00-a1416-ipad3-adapters/Build1.jpg)
+
+![Build 2](/00-a1416-ipad3-adapters/Build2.jpg)
+
+![Build 3](/00-a1416-ipad3-adapters/Build3.jpg)
 
 **Compatible Models:**
 * iPad 3 (A1416, and cellular versions)
