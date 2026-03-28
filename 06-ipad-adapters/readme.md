@@ -11,14 +11,14 @@ This directory contains the hardware to adapt iPad 3/4 screens for DIY monitor p
 ## 📺 Part 1: Display Adapter
 **a1416-ipad3-display-adapter**
 
-![Display Adapter Overview](./a1416-ipad3-display-adapter-01.jpg)
+![Display Adapter Overview](./00-a1416-ipad3-adapters/a1416-ipad3-display-adapter-01.jpg)
 
 This adapter converts the iPad 3/4 screen interface to a 40-pin FPC connector. It features integrated power control and a backlight boost circuit.
 
 ### ⚠️ Installation Warning: Connector Orientation
 The screen must be installed in the direction shown below. **Reversing the connector orientation may result in permanent damage to the display.**
 
-![Installation Orientation](./a1416-ipad3-display-adapter-02.jpg)
+![Installation Orientation](./00-a1416-ipad3-adapters/a1416-ipad3-display-adapter-02.jpg)
 
 ### Required Mainboards
 Must be paired with a compatible mainboard, such as:
@@ -29,7 +29,7 @@ Must be paired with a compatible mainboard, such as:
 ## 👆 Part 2: Touch Adapter (I2C)
 **a1416-ipad3-touch-adapter**
 
-![Touch Adapter Overview](./a1416-ipad3-touch-adapter-01.jpg)
+![Touch Adapter Overview](./00-a1416-ipad3-adapters/a1416-ipad3-touch-adapter-01.jpg)
 
 This adapter converts the iPad 3/4 touchscreen matrix into a standard 6-pin I2C output, based on the **Goodix GT9110** chip.
 
@@ -41,9 +41,9 @@ The **GT9110** chip must be initialized before its first use:
 4. **Finalize**: The adapter is now ready for I2C use. For USB touch, refer to the CH554 folder for USB firmware.
 
 ### Connection Guide
-![Touchscreen Connection](./a1416-ipad3-touch-adapter-02.jpg)
+![Touchscreen Connection](./00-a1416-ipad3-adapters/a1416-ipad3-touch-adapter-02.jpg)
 
-![Touch System Setup](./a1416-ipad3-touch-adapter-03.jpg)
+![Touch System Setup](./00-a1416-ipad3-adapters/a1416-ipad3-touch-adapter-03.jpg)
 
 ---
 
