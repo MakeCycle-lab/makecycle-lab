@@ -41,7 +41,7 @@ To keep the repository lightweight, detailed production files are hosted as **RA
 3.  **`Release-Peripherals`**: Common accessory assets.
 4.  **`Adapter-iPad-Series`**: All iPad-specific adapter boards.
 
-> **Tip**: Each sub-directory's README contains a direct link to the corresponding Release Tag for quick access.
+> **Tip**: Each sub-directory's README contains direct download links to the corresponding production files (RAR/ZIP) for that specific model..
 
 ---
 *Reviving legacy hardware, one bit at a time.*
