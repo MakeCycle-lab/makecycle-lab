@@ -59,4 +59,4 @@ Click the link below to download the complete production files for **dptoipad-li
 
 Click the link below to watch the application of the **dptoipad-lite** mainboard in the iPad 3 monitor conversion project:
 
-[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=EXAMPLE_VIDEO_ID)
+[Watch the Tutorial on YouTube](https://youtu.be/SIrAsRxxnzA?si=k5JAVLB_saVsBVGC)

@@ -79,4 +79,4 @@ Click the link below to download the resource files for the iPad monitor convers
 
 Click the link below to watch the detailed step-by-step video of the iPad monitor conversion process:
 
-[Watch the Tutorial on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Watch the Tutorial on YouTube](https://youtu.be/SIrAsRxxnzA?si=k5JAVLB_saVsBVGC)
