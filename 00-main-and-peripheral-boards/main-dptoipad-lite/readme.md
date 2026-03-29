@@ -4,6 +4,8 @@
 
 The **dptoipad-lite** is a universal mainboard designed to convert DisplayPort (DP) input into a 40-pin FPC output. It utilizes 0603 SMD components, making it relatively easy to solder and ideal for DIY enthusiasts.
 
+To check which models are supported by this mainboard, please refer to the specific device's documentation, where compatible display mainboard models are listed.
+
 To drive a display, the **dptoipad-lite** must be used in conjunction with an FPC ribbon cable and a model-specific display adapter. 
 
 ### 🛠️ Setup Example (iPad 3 / A1416)

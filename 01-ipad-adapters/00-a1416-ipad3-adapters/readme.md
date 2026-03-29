@@ -25,7 +25,7 @@ This adapter converts the iPad 3/4 screen interface to a 40-pin FPC connector. I
 
 ### Required Mainboards
 Must be paired with a compatible mainboard, such as:
-1. **edp-00-dptoipad-lite** (Find details in the `/00-display-mainboards-and-sub-boards` directory).
+1. **main-dptoipad-lite** (Find details in the `/00-Main-and-Peripheral-Boards` directory).
 
 ### ⚠️ Installation Warning: Connector Orientation
 The screen must be installed in the direction shown below. **Reversing the connector orientation may result in permanent damage to the display.**
@@ -43,13 +43,13 @@ This adapter converts the iPad 3/4 touchscreen matrix into a standard 6-pin I2C 
 
 ### Required Touch Controllers
 Must be paired with a compatible touch controller, such as:
-1. **i2c-00-touch-controller-ch554-3rd** (Find details in the `/00-touch-controllers` directory).
+1. **touch-controller-ch554-3rd** (Find details in the `/00-Main-and-Peripheral-Boards` directory).
 
 ### 🛠️ Configuration Guide (First-Time Setup)
 The **GT9110** chip must be initialized before its first use:
 
 1.  **Locate Firmware**: Find `GT911_Update.hex` in the `gt911-update-config` folder.
-2.  **Flash the Controller**: Burn this file onto the **i2c-00-touch-controller-ch554-3rd** board.
+2.  **Flash the Controller**: Burn this file onto the **touch-controller-ch554-3rd** board.
 3.  **Execute Update**: 
     * Power on the system and wait for the MCU to flash the configuration to the GT9110. 
     * Once the **LED stays solid (on)**, the update is complete. 

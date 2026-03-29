@@ -11,6 +11,8 @@ I have archived the original files in this repository to ensure availability. Pl
 * **Firmware**: Since the original source code is based on the Keil C51 environment (which lacks a free version), I have used the provided **.hex** firmware directly from the archive.
 * **Hardware**: I have reconstructed the PCB for this project.
 
+​To check which models are supported by this touch controller, please refer to the specific device's documentation, where compatible touch controller models are listed.
+
 ---
 
 ### 🔍 Firmware & Driving Logic
