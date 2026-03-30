@@ -25,9 +25,9 @@ These folders contain ready-to-use files for both the screen and touch functiona
 | Model | Lcd Adapter | Touch Adapter | 
 | :--- | :--- | :--- | 
 | **a1416 (iPad 3)** | Works | Works | 
-| **a1474 (iPad Air 1)** | Works | Works | 
-| **a1566 (iPad Air 2)** | Works | Works | 
-| **a2197 (iPad 7)** | Same as a1474 | Works | 
+| **a1474 (iPad Air 1)** | Works | In Development |  
+| **a1566 (iPad Air 2)** | Works | In Development |  
+| **a2197 (iPad 7)** | Same as a1474 | In Development | 
 | **a1673 (Pro 9.7)** | Works | In Development | 
 | **a1489 (mini 2)** | Works | In Development | 
 | **a1538 (mini 4)** | Works | In Development | 
