@@ -7,7 +7,7 @@ Welcome to my hardware laboratory. This repository hosts the original developmen
 
 ### 📢 Notice
 * **Archive Only**: This is a non-interactive repository. Issues and PRs will not be processed.
-* **Support**: Please leave comments on YouTube/Douyin for technical questions.
+* **Support**: Please leave comments on YouTube for technical questions.
 * **License**: MIT (Excluding 3rd-party assets).
 
 ⭐ **Support this project by giving it a Star!**
