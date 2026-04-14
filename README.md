@@ -1,7 +1,7 @@
 # 🛠️ MakeCycle-Lab | Hardware Project Assets
 
 🚀 **Project Overview**
-Welcome to my hardware laboratory. This repository hosts the original development files and assets shared on my YouTube / Douyin Channel. 
+Welcome to my hardware laboratory. This repository hosts the original development files and assets shared on my YouTube Channel. 
 
 ---
 
